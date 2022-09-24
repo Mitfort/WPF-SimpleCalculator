@@ -1,0 +1,5 @@
+D:\c#\Mitfort\END\Calcutor.exe
+D:\c#\Mitfort\END\Calcutor.dll
+D:\c#\Mitfort\END\Calcutor.deps.json
+D:\c#\Mitfort\END\Calcutor.runtimeconfig.json
+D:\c#\Mitfort\END\Calcutor.pdb

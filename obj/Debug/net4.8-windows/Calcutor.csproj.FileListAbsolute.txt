@@ -1,0 +1,17 @@
+D:\c#\Mitfort\Calcutor\Calcutor\bin\Debug\net4.8-windows\Calcutor.exe.config
+D:\c#\Mitfort\Calcutor\Calcutor\bin\Debug\net4.8-windows\Calcutor.exe
+D:\c#\Mitfort\Calcutor\Calcutor\bin\Debug\net4.8-windows\Calcutor.pdb
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Themes\Buttons.baml
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\MainWindow.g.cs
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\App.g.cs
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor_MarkupCompile.cache
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor_MarkupCompile.lref
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\App.baml
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\MainWindow.baml
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor.g.resources
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor.AssemblyInfoInputs.cache
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor.AssemblyInfo.cs
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor.csproj.CoreCompileInputs.cache
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor.exe
+D:\c#\Mitfort\Calcutor\Calcutor\obj\Debug\net4.8-windows\Calcutor.pdb
